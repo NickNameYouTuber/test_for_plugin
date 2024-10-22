@@ -15,7 +15,7 @@ public class Main {
         if (1 == 1){
             System.out.println(sum(1, 3));
         } else {
-            System.out.println("ddd");
+            System.out.println(sub(1, 3));
         }
 
         System.out.printf("END!");
@@ -23,5 +23,9 @@ public class Main {
 
     public static float sum(int a, int b){
         return a + b;
+    }
+
+    public static float sub(int a, int b){
+        return a - b;
     }
 }
