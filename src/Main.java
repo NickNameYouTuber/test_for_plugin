@@ -13,10 +13,10 @@ public class Main {
             // for you, but you can always add more by pressing Ctrl+F8.
             System.out.println("i = " + i);
             System.out.println("Hello");
-            System.out.println("вввA");
-            System.out.println("dA");
-            System.out.println("Afd");
-            System.out.println("fd");
+            System.out.println("вввdasA");
+            System.out.println("ddsA");
+            System.out.println("Afdasd");
+            System.out.println("fdad");
         }
     }
 }
