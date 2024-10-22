@@ -12,11 +12,15 @@ public class Main {
             // Press Shift+F9 to start debugging your code. We have set one breakpoint
             // for you, but you can always add more by pressing Ctrl+F8.
             System.out.println("i = " + i);
-            System.out.println("Hello");
+            System.out.println("Helваlo");
             System.out.println("вввdasA");
             System.out.println("ddsA");
             System.out.println("Afdasd");
             System.out.println("fdad");
+        }
+
+        if (1 == 1){
+            System.out.println("1 = 1");
         }
     }
 }
