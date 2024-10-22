@@ -14,9 +14,9 @@ public class Main {
             System.out.println("i = " + i);
             System.out.println("Hello");
             System.out.println("вввA");
-            System.out.println("A");
-            System.out.println("A");
-            System.out.println("A");
+            System.out.println("dA");
+            System.out.println("Afd");
+            System.out.println("fd");
         }
     }
 }
