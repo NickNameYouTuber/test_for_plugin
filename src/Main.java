@@ -19,5 +19,7 @@ public class Main {
         } else {
             System.out.println("1 != 1");
         }
+
+        System.out.printf("END!");
     }
 }
