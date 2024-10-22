@@ -8,10 +8,7 @@ public class Main {
 
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
-
-            System.out.println("ввcxвdasA");
-            System.out.println("ddsA");
-            System.out.println("fcxdad");
+            System.out.printf("Hello idite naxuy!");
         }
 
         if (1 == 1){
