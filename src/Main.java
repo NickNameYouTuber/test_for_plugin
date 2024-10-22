@@ -13,11 +13,15 @@ public class Main {
         }
 
         if (1 == 1){
-            System.out.println("1 != 1");
+            System.out.println(sum(1, 3));
         } else {
             System.out.println("1 != 1");
         }
 
         System.out.printf("END!");
+    }
+
+    public static float sum(int a, int b){
+        return a + b;
     }
 }
