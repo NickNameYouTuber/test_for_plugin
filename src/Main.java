@@ -10,6 +10,8 @@ public class Main {
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
             System.out.printf("XZ!");
+            System.out.printf("в!");
+            System.out.println("A");
         }
 
         if (1 == 1){
