@@ -22,6 +22,8 @@ public class Main {
         }
 
         System.out.printf("END!");
+        System.out.printf("END!");
+        System.out.printf("END!");
     }
 
     public static float sum(int a, int b){
