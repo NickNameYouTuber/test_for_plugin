@@ -31,4 +31,8 @@ public class Main {
     public static float sub(int a, int b){
         return a - b;
     }
+
+    public static float multiply(int a, int b){
+        return a * b;
+    }
 }
