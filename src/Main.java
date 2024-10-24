@@ -14,6 +14,7 @@ public class Main {
 
         if (1 == 1){
             System.out.println(sum(1, 3));
+            System.out.println(sum(1, 3));
         } else {
             System.out.println(sub(1, 3));
             System.out.println(sum(2, 3));
