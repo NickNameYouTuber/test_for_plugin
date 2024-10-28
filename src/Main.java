@@ -15,6 +15,7 @@ public class Main {
             System.out.printf("XZ!");
             System.out.printf("XZ!");
             System.out.printf("XZ!");
+            System.out.printf("XZ!");
         }
 
         if (1 == 1){
